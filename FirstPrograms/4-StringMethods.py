@@ -15,3 +15,5 @@ print(name.count("e")) # counts how many of said string are in your string
 print(name.replace("e","EGG")) # replaces all appearances of said string with another string that you define
 
 print(name*3) # prints the string 3 times!! NO NEED FOR A LOOP LIKE IN ALL OTHER LANGUAGES THIS IS PRETTY COOL DAMN
+
+print() # prints an empty line
