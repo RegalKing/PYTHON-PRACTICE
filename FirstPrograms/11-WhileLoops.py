@@ -3,7 +3,7 @@ i = 0
 
 while i<10:
     print(i)
-    i=i+1 # ++ and -- operators don't exist in python
+    i+=1 # ++ and -- operators don't exist in python
 
 
 name = "" # empty string
