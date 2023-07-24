@@ -10,8 +10,9 @@ py Filename.py
 ## Python - Progress tracker
 
 ```sh
-Course progress, course link: https://www.youtube.com/watch?v=XKHEtdqhLK8 
+Course Progress
 ```
+[Course link](https://www.youtube.com/watch?v=XKHEtdqhLK8)
 - [x] 1 - Hello, world!
 - [x] 2 - Variables
 - [x] 3 - Multiple Assignment
