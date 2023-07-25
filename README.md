@@ -26,4 +26,6 @@ Course Progress
 - [x] 11 - While Loops
 - [x] 12 - For Loops
 - [x] 13 - Nested Loops
-
+- [x] 14 - Loop Controls
+- [x] 15 - Lists
+- [x] 15 - 2D Lists
