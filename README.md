@@ -28,4 +28,4 @@ Course Progress
 - [x] 13 - Nested Loops
 - [x] 14 - Loop Controls
 - [x] 15 - Lists
-- [x] 15 - 2D Lists
+- [x] 16 - 2D Lists
