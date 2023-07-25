@@ -29,3 +29,5 @@ Course Progress
 - [x] 14 - Loop Controls
 - [x] 15 - Lists
 - [x] 16 - 2D Lists
+- [x] 17 - Tuples
+- [x] 18 - Sets 
