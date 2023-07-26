@@ -1,4 +1,4 @@
-# C-P2-UNI-FRI-2023
+# PYTHON-PRACTICE-2023
 
 After learning Java and C at University I've taken interest in learning Python. All my code for studying Python will be shared in this repository!
 
