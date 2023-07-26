@@ -38,3 +38,4 @@ Course Progress:
 - [x] 23 - Keyword Arguments
 - [x] 24 - Nested Function Calls
 - [x] 25 - Variable Scope
+- [x] 26 - args
