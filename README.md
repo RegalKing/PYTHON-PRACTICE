@@ -2,7 +2,7 @@
 
 After learning Java and C at University I've taken interest in learning Python. All my code for studying Python will be shared in this repository!
 
-Every program can be run with the following sequence of commands assuming Python is installed on the system:
+Every program can be run with the following command assuming Python is installed on the system:
 ```python
 py Filename.py
 ```
