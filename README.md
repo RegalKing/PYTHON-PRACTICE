@@ -36,3 +36,5 @@ Course Progress
 - [x] 21 - Functions
 - [x] 22 - Return Functions
 - [x] 23 - Keyword Arguments
+- [x] 24 - Nested Function Calls
+- [x] 25 - Variable Scope
