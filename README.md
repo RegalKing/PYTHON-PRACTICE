@@ -42,3 +42,4 @@ Course Progress:
 - [x] 27 - kwargs
 - [x] 28 - Print, F-string and str.format()
 - [x] 29 - Random
+- [x] 30 - Exception Handling
