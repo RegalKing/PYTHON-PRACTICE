@@ -9,10 +9,10 @@ py Filename.py
 <!-- GETTING STARTED -->
 ## Python - Progress tracker
 
-```sh
-Course Progress
-```
 [Course link](https://www.youtube.com/watch?v=XKHEtdqhLK8)
+```sh
+Course Progress:
+```
 - [x] 1 - Hello, world!
 - [x] 2 - Variables
 - [x] 3 - Multiple Assignment
