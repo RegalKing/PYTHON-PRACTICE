@@ -39,3 +39,6 @@ Course Progress:
 - [x] 24 - Nested Function Calls
 - [x] 25 - Variable Scope
 - [x] 26 - args
+- [x] 27 - kwargs
+- [x] 28 - Print, F-string and str.format()
+- [x] 29 - Random
