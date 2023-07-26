@@ -30,4 +30,9 @@ Course Progress
 - [x] 15 - Lists
 - [x] 16 - 2D Lists
 - [x] 17 - Tuples
-- [x] 18 - Sets 
+- [x] 18 - Sets
+- [x] 19 - Dictionaries
+- [x] 20 - Index Operators and Methods
+- [x] 21 - Functions
+- [x] 22 - Return Functions
+- [x] 23 - Keyword Arguments
