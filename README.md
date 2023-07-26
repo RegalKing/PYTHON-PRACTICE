@@ -1,4 +1,4 @@
-# PYTHON-PRACTICE-2023
+# Python Practice 2023
 
 After learning Java and C at University I've taken interest in learning Python. All my code for studying Python will be shared in this repository!
 
