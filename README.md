@@ -43,3 +43,11 @@ Course Progress:
 - [x] 28 - Print, F-string and str.format()
 - [x] 29 - Random
 - [x] 30 - Exception Handling
+- [x] 31 - File and Path Detection
+- [x] 32 - Reading Files
+- [x] 33 - Writing in Files
+- [x] 34 - Copy Files and Directories
+- [x] 35 - Moving Files and Directories
+- [x] 36 - Deleting Files and Directories
+- [x] 36 [II] - Creating Files and Directories
+- [x] 37 - Modules (A file containing code, may contain classes, functions, etc. -> concept known as Modular programming)
