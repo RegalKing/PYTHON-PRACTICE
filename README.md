@@ -10,6 +10,7 @@ py Filename.py
 ## Python - Progress tracker
 
 [Course link](https://www.youtube.com/watch?v=XKHEtdqhLK8)
+I like the course path, but it lacks depth. I tried to add a lot more than the course offers to my code -> for future uses for myself and for anyone that would like to learn just from reading the code itself.
 ```sh
 Course Progress:
 ```
