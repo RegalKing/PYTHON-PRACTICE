@@ -11,7 +11,7 @@ py Filename.py
 
 [Course link](https://www.youtube.com/watch?v=XKHEtdqhLK8)\
 \
-I like the course path, but it lacks depth and some crucial use cases are not shown, just to name some things that I noticed it lacking. I added a lot more depth, details and explanations than the course offers to my code -> for future uses for myself and for anyone that would like to learn just from reading the code itself.
+I like the course path, but it lacks depth and some crucial use cases are not shown, just to name some things that I noticed. I added a lot more depth, details and explanations than the course offers to my code -> for future uses for myself and for anyone that would like to learn just from reading the code itself.
 ```sh
 Course Progress:
 ```
