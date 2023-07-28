@@ -36,7 +36,7 @@ for index, (question, correct_answer) in enumerate(questions.items(), start=1): 
     print(f"Your question {index} is: {CYAN}{question}{RESET}")
     for idx, possible_answer in enumerate(options[index-1], start=1):
         print(f"{YELLOW}{chr(idx+64)}{RESET} {MAGENTA}{possible_answer}{RESET}") # chr(idx+64) converts numbers to letters, 1=A, 2=B, etc (ASCII for A is 65, ASCII for B is 66, ...)
-    user_input = input("Which answer do you think is correct? (Letter A/B/C/...)): ")
+    user_input = input(f"{BLUE}Which answer do you think is correct? (Letter A/B/C/...){RESET}: ")
     if user_input == correct_answer:
         print(f"{GREEN}Correct, {user_input} is the correct answer!{RESET}")
         right_answers+=1
