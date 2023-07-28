@@ -26,7 +26,7 @@ while player_stopped != True:
     try:
         computer = random.choice(choices)
         print(f"{MAGENTA}++++++++++++++++++++++++++++++++{RESET}")
-        user_choice = input("The computer has randomly selected {YELLOW}rock{RESET} or {YELLOW}paper{RESET} or {YELLOW}scissors{RESET}\nType \"stop\" if you want to quit playing\nType \"rock\", \"paper\" or \"scissors\" to try and win versus the computer: ")
+        user_choice = input(f"The computer has randomly selected {YELLOW}rock{RESET} or {YELLOW}paper{RESET} or {YELLOW}scissors{RESET}\nType {RED}\"stop\"{RESET} if you want to quit playing\nType {YELLOW}\"rock\"{RESET}, {YELLOW}\"paper\"{RESET} or {YELLOW}\"scissors\"{RESET} to try and win versus the computer: ")
         print(f"{MAGENTA}++++++++++++++++++++++++++++++++{RESET}")
 
         if user_choice == "stop":
