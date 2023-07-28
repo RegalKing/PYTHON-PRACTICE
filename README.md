@@ -54,3 +54,4 @@ Course Progress:
 - [x] 36 [II] - Creating Files and Directories
 - [x] 37 - Modules (A file containing code, may contain classes, functions, etc. -> concept known as Modular programming)
 - [x] 38 - Advanced Rock, Paper, Scissors Game [Try it out!]
+- [x] 39 - Quiz Game [Try it out!] 
